@@ -1,32 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" width="640" height="140" font-family="'Fira Code','Cascadia Code',Consolas,monospace">
-  <rect width="640" height="140" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 130" width="640" height="130" font-family="'Fira Code','Cascadia Code',Consolas,monospace">
+  <rect width="640" height="130" fill="none"/>
 
-  <g font-size="28" font-weight="600" fill="#c25e00" text-anchor="middle">
-    <!-- linha 1 -->
-    <text x="320" y="60">
-      Olá, eu sou Dev Marinho!
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.30;0.36" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <!-- linha 2 -->
-    <text x="320" y="60">
-      Estudante de ADS — 4º período
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30;0.38;0.62;0.70;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-    <!-- linha 3 -->
-    <text x="320" y="60">
-      Back-end · Dados/IA · Games
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.62;0.70;0.94;1;1" dur="12s" repeatCount="indefinite"/>
-    </text>
-  </g>
+  <style>
+    .ln { font-size: 27px; font-weight: 600; fill: #c25e00; text-anchor: middle; }
+    .l1 { animation: c1 12s infinite; }
+    .l2 { opacity: 0; animation: c2 12s infinite; }
+    .l3 { opacity: 0; animation: c3 12s infinite; }
+    @keyframes c1 { 0%,26% {opacity:1} 31%,100% {opacity:0} }
+    @keyframes c2 { 0%,30% {opacity:0} 35%,61% {opacity:1} 66%,100% {opacity:0} }
+    @keyframes c3 { 0%,65% {opacity:0} 70%,96% {opacity:1} 100% {opacity:0} }
+    .cur { fill: #0b4f8a; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
 
-  <!-- cursor piscando -->
-  <g fill="#0b4f8a">
-    <rect x="0" y="38" width="12" height="30" opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0;0;1;1;0;0;1;1;0" keyTimes="0;0.03;0.28;0.31;0.34;0.40;0.60;0.63;0.66;0.72;0.92;1" dur="12s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="165,0;165,0;165,0;245,0;245,0;245,0;245,0;230,0;230,0;230,0;230,0;230,0" keyTimes="0;0.31;0.33;0.34;0.60;0.62;0.63;0.66;0.90;0.92;0.94;1" dur="12s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+  <!-- estado estático (app mobile / sem CSS): só a linha 1 aparece -->
+  <text class="ln l1" x="320" y="58">Olá, eu sou Dev Marinho!</text>
+  <text class="ln l2" x="320" y="58">Estudante de ADS — 4º período</text>
+  <text class="ln l3" x="320" y="58">Back-end · Dados/IA · Games</text>
 
-  <!-- linha decorativa -->
-  <rect x="200" y="95" width="240" height="3" rx="2" fill="#0b4f8a" opacity="0.55"/>
+  <rect class="cur" x="556" y="36" width="11" height="28" rx="2"/>
+
+  <rect x="210" y="92" width="220" height="3" rx="2" fill="#0b4f8a" opacity="0.55"/>
 </svg>
