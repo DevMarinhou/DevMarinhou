@@ -23,7 +23,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/DevMarinhou?style=for-the-badge&logo=github&label=Seguidores&color=0b4f8a)](https://github.com/DevMarinhou)
 [![GitHub User's stars](https://img.shields.io/github/stars/DevMarinhou?style=for-the-badge&logo=github&label=Stars&color=c25e00)](https://github.com/DevMarinhou)
-[![Profile views](https://img.shields.io/profile-views/DevMarinhou?style=for-the-badge&color=0f7b4f)](https://github.com/DevMarinhou)
+[![Profile views](https://komarev.com/ghpvc/?username=DevMarinhou&color=0b4f8a&label=VISITAS)](https://github.com/DevMarinhou)
 
 </div>
 
@@ -33,19 +33,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMarinhou&show_icons=true&hide_border=true&bg_color=00000000&title_color=C25E00&icon_color=0b4f8a&text_color=1c2430&ring_color=0b4f8a" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=DevMarinhou&show_icons=true&hide_border=true&bg_color=00000000&title_color=C25E00&icon_color=0b4f8a&text_color=1c2430&ring_color=0b4f8a" alt="GitHub Stats" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMarinhou&hide_border=true&background=00000000&ring=C25E00&fire=0b4f8a&currStreakNum=1c2430&sideNums=1c2430&currStreakLabel=0f7b4f&sideLabels=0b4f8a&dates=4d5563" alt="GitHub Streak" />
 
-<img height="165em" src="https://github-profile-trophy.vercel.app/?username=DevMarinhou&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophy" />
-
 </div>
-
----
-
-### 📈 Atividade
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevMarinhou&bg_color=00000000&color=1c2430&line=c25e00&point=0b4f8a&hide_border=true)
 
 ---
 
@@ -115,8 +107,5 @@ Clássico jogo da cobrinha em Python.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f8a,50:c25e00,100:b3261e&height=120&section=footer&animation=fadeIn" alt="footer wave" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-DevMarinhou-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMarinhou)
-[![Email](https://img.shields.io/badge/Email-devmarinho%40users.noreply.github.com-c25e00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmarinho@users.noreply.github.com)
-
-<img src="https://komarev.com/ghpvc/?username=DevMarinhou&style=for-the-badge&color=0b4f8a&label=VISITAS" alt="profile views" />
 
 </div>
