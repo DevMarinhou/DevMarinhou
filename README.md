@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=C25E00&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Dev+Marinho!;Estudante+de+ADS+%E2%80%94+4%C2%BA+per%C3%ADodo;Back-end+%C2%B7+Dados%2FIA+%C2%B7+Games" alt="Typing SVG" />
+<img src="./typing.svg" alt="" width="640" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3261e,50:c25e00,100:0b4f8a&height=140&section=header&animation=fadeIn" alt="header wave" />
 
