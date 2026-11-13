@@ -12,7 +12,7 @@
 
 ```text
 🎓 ADS — Análise e Desenvolvimento de Sistemas · 4º período
-🏫 FASEC TO — Faculdade SECOEC do Tocantins · Palmas/TO
+🏫 FASEC — Faculdade Serra do Carmo · Palmas/TO
 💻 Back-end, APIs e automações
 🤖 Interesse em Dados & Inteligência Artificial
 🎮 Game dev como hobby (Pygame / Godot)
