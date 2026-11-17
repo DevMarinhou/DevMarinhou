@@ -68,15 +68,15 @@
 <td width="50%">
 
 #### 🗺️ [guia-dourado](https://github.com/DevMarinhou/guia-dourado)
-PWA de acessibilidade e comunicação universal no Capim Dourado Shopping.
+PWA de acessibilidade e navegação inclusiva — hackathon FASEC.
 `Next.js` `TypeScript` `WCAG`
 
 </td>
 <td width="50%">
 
 #### 🚗 [Navegue-Seguro](https://github.com/DevMarinhou/Navegue-Seguro)
-Projeto acadêmico de segurança viária.
-`Python`
+Landing page acessível de segurança digital para a terceira idade.
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
@@ -84,14 +84,14 @@ Projeto acadêmico de segurança viária.
 <td width="50%">
 
 #### 🎮 [Roguelike-game-pgzero](https://github.com/DevMarinhou/Roguelike-game-pgzero)
-Roguelike feito com Pygame Zero.
-`Python` `Pygame`
+Roguelike de ação com dash, boons e partículas (sátira ficcional).
+`Python` `Pygame Zero`
 
 </td>
 <td width="50%">
 
 #### 🐍 [Snake-game-in-Python-using-pygame](https://github.com/DevMarinhou/Snake-game-in-Python-using-pygame)
-Clássico jogo da cobrinha em Python.
+Jogo da cobrinha com 10 comidas, sons e sprites próprios.
 `Python` `Pygame`
 
 </td>
